@@ -9,6 +9,7 @@ class Shape {
 
   name = 'shape';
 
+  // 클래스의 생성자, 생성자 명이 지정되어 있음
   constructor(x, y) {
     this.move(x, y);
   }
@@ -25,3 +26,20 @@ class Shape {
 
 var s = new Shape(0, 0);
 console.log(s.area());
+
+class Circle extends Shape {
+  constructor(x, y, radius) {
+    super(x, y);
+    this.radius = radius; // 객체의 멤버 변수 선언
+  }
+
+  area() {
+    if (this.radius === 0) {
+      return super.area();
+    }
+    return this.radius * this.radius;
+  }
+}
+
+var c = new Circle(0, 0, 10);
+console.log(c.area());
