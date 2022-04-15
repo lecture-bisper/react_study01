@@ -5,6 +5,8 @@ https://1drv.ms/u/s!AkaHS9HwadBKgw-lA2ERdbp-mO7u?e=iGtUNG
 react 2일차 내용
 공유 파일 :
 https://1drv.ms/u/s!AkaHS9HwadBKgxjP9RnLRUDB7SmH?e=SdbIwL
+프로미스 관련 SpringBoot 파일 :
+https://1drv.ms/u/s!AkaHS9HwadBKgxmlnvPmtMnf3hDZ?e=Ms2bAr
 
 # Getting Started with Create React App
 
