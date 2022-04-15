@@ -2,6 +2,10 @@ react 1일차 내용
 공유 파일 :
 https://1drv.ms/u/s!AkaHS9HwadBKgw-lA2ERdbp-mO7u?e=iGtUNG
 
+react 2일차 내용
+공유 파일 :
+https://1drv.ms/u/s!AkaHS9HwadBKgxjP9RnLRUDB7SmH?e=SdbIwL
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
