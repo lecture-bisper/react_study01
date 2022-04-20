@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>처음 사용하는 리액트.</h1>
+        <h2>추가로 더 입력해 봅시다.</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
