@@ -1,12 +1,17 @@
 react 1일차 내용
 공유 파일 :
-https://1drv.ms/u/s!AkaHS9HwadBKgw-lA2ERdbp-mO7u?e=iGtUNG
+(https://1drv.ms/u/s!AkaHS9HwadBKgw-lA2ERdbp-mO7u?e=iGtUNG)
 
 react 2일차 내용
 공유 파일 :
-https://1drv.ms/u/s!AkaHS9HwadBKgxjP9RnLRUDB7SmH?e=SdbIwL
+(https://1drv.ms/u/s!AkaHS9HwadBKgxjP9RnLRUDB7SmH?e=SdbIwL)
 프로미스 관련 SpringBoot 파일 :
-https://1drv.ms/u/s!AkaHS9HwadBKgxmlnvPmtMnf3hDZ?e=Ms2bAr
+(https://1drv.ms/u/s!AkaHS9HwadBKgxmlnvPmtMnf3hDZ?e=Ms2bAr)
+
+react 3일차 내용
+공유 파일(github) : 신규 프로젝트 추가.
+(https://github.com/lecture-bisper/react_study01)
+(https://github.com/lecture-bisper/react-study02)
 
 # Getting Started with Create React App
 
